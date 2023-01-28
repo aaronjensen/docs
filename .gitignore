@@ -2,6 +2,5 @@ node_modules
 *lock*
 _build
 diagrams/handler-workflow.png
-package.json*
-.vuepress/.cache
-.vuepress/.temp
+package.json.lock
+.vitepress/cache

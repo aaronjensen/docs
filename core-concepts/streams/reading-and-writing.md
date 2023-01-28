@@ -1,7 +1,3 @@
----
-sidebarDepth: 0
----
-
 # Reading and Writing
 
 Message streams are at once a form of storage and a message transport.
